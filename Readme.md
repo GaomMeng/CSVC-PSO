@@ -69,7 +69,7 @@ The `main.py` script is the central entry point for this project, orchestrating 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-repo/CSVC-PSO.git
+   git clone https://github.com/GaomMeng/CSVC-PSO.git
    ```
 
 2. Navigate into the project directory:
