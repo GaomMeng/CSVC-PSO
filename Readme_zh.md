@@ -70,7 +70,7 @@ CSVC-PSO/
 1. 将仓库克隆到本地：
 
    ```bash
-   git clone https://github.com/your-repo/CSVC-PSO.git
+   git clone https://github.com/GaomMeng/CSVC-PSO.git
    ```
 
 2. 进入项目目录：
